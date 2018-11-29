@@ -21,13 +21,14 @@ Several processes jointly explain this major transition.
 
 * The creation of villager communities by peasant households to increase their productivity and counterbalance the power of lords.
 
+Peasant households being 
+
 
 ### Modelled entities
 
-| Name  | Category | Type  | Activity | Level |
+| Name  | Description | Type  | Activity | Level |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Peasant household  | Moving locally and at long distances | Socio-spatial | Active | Micro-geographic |
-| Peasant household  |Moving only locally | Socio-spatial | Active | Micro-geographic |
+| Peasant household  | Most of them can move locally and at long distances but others are so highly dependent on their lord that they can not leave his grounds| Socio-spatial | Active | Micro-geographic |
 | Lord  | Liege lord | Social | Active | Micro-geographic |
 | Lord  | Small lord (enfeoffed vassal, knight...) | Socio-spatial | Active | Micro-geographic |
 | Taxing area  | Rents | Spatial | Passive | Micro-geographic |
