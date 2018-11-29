@@ -28,20 +28,12 @@ Peasant households being
 
 | Name  | Description | Type  | Activity | Level |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Peasant household  | Most of them can move locally and at long distances but others are so highly dependent on their lord that they can not leave his grounds| Socio-spatial | Active | Micro-geographic |
-| Lord  | Liege lord | Social | Active | Micro-geographic |
-| Lord  | Small lord (enfeoffed vassal, knight...) | Socio-spatial | Active | Micro-geographic |
-| Taxing area  | Rents | Spatial | Passive | Micro-geographic |
-| Taxing area  | High justice rights | Spatial | Passive | Micro-geographic |
-| Taxing area  | Medium and low justice rights | Spatial | Passive | Micro-geographic |
-| Taxing area  | Usage rights | Spatial | Passive | Micro-geographic |
-| Attractive point  | Parish churches |  Socio-spatial | Active | Micro-geographic |
-| Attractive point  | Church without parish rights |  Spatial | Passive | Micro-geographic |
-| Attractive point  | Castle |  Spatial | Passive | Micro-geographic |
-| Attractive point  | Villager community |  Spatial | Passive | Micro-geographic |
-| Population cluster  | Village |  Spatial | Passive | Meso-geographic |
-| Population cluster  | Agglomeration (market town, small town) |  Spatial | Passive | Meso-geographic |
-| Attraction centre  |  |  Spatial | Passive | Meso-geographic |
+| Peasant households | Most of them can move locally and at long distances but others are so highly dependent on their lord that they can not leave his grounds| Socio-spatial | Active | Micro-geographic |
+| Lords  | Liege lords and small lords (enfeoffed vassal, knight...) do not have the same behaviour rules | Social | Active | Micro-geographic |
+| Taxing areas  | Each taxing area refers to only one of the following types of rights: rents, high justice rights, medium and low justice rights, usage rights | Spatial | Passive | Micro-geographic |
+| Attractive points  | Three types of attractive points are distinguised: parish chruches, castles, and villager communities  |  Socio-spatial | Active | Micro-geographic |
+| Population clusters  | Villages, towns. They are defined as the aggregation of neighbouring peasant households and attractive points |  Spatial | Passive | Meso-geographic |
+| Attraction centres  | TThey are defined as the aggregation of neighbouring attractive points |  Spatial | Passive | Meso-geographic |
 
 ### Relocation process of a peasant household within SimFeodal
 
