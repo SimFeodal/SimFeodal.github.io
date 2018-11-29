@@ -1,4 +1,4 @@
-# SimFeodal
+# SimFeodal.github.io
 ## Agent-based modelling to explore the combined effects of social and demographic changes on rural settlement patterns in North-Western Europe during the Middle Ages (800 CE to 1100 CE).
 
 Around 800 CE, the Carolingian Empire achieved its greatest territorial extent: it covered a large part of Europe, from the Ebro to the Elbe. At a regional scale, settlement patterns mixed small dispersed villages (which corresponded to a loose gathering of few houses) and isolated farms (i. e. agricultural holdings). Villages and farms were not permanent: their location often changed (every one or two centuries) from about tens meters to several hundred meters. At this time period, towns were inherited from the Antiquity. They had a central function as episcopal see but their economic and administrative role was not really important.
