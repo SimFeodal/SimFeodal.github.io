@@ -3,7 +3,7 @@
 
 **The agent-based model SimFeodal simulates the emergence of enduring population clusters located around the castles and the churches in a rural region during the Middle Ages.**  In the course of time, population clusters (hamlets, villages, small towns) become more numerous; many of them grow (i. e. their number of peasant households increases) but some clusters grow more than others.
 
-### Historial context
+### Historical context
 
 Around 800 CE, the Carolingian Empire achieved its greatest territorial extent: it covered a large part of Europe, from the Ebro to the Elbe. At a regional scale, settlement patterns mixed small dispersed villages (which corresponded to a loose gathering of few houses) and isolated farms (i. e. agricultural holdings). Villages and farms were not permanent: their location often changed (every one or two centuries) from about tens meters to several hundred meters. At this time period, towns were inherited from the Antiquity. They had a central function as episcopal see but their economic and administrative role was not really important.
 
