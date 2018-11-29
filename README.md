@@ -21,8 +21,6 @@ Several processes jointly explain this major transition.
 
 * The creation of villager communities by peasant households to increase their productivity and counterbalance the power of lords.
 
-Peasant households being 
-
 
 ### Modelled entities
 
@@ -31,9 +29,9 @@ Peasant households being
 | Peasant households | Most of them can move locally and at long distances but others are so highly dependent on their lord that they can not leave his grounds| Socio-spatial | Active | Micro-geographic |
 | Lords  | Liege lords and small lords (enfeoffed vassal, knight...) do not have the same behaviour rules | Social | Active | Micro-geographic |
 | Taxing areas  | Each taxing area refers to only one of the following types of rights: rents, high justice rights, medium and low justice rights, usage rights | Spatial | Passive | Micro-geographic |
-| Attractive points  | Three types of attractive points are distinguised: parish chruches, castles, and villager communities  |  Socio-spatial | Active | Micro-geographic |
+| Attractive points  | Three types of attractive points are distinguised: parish churches, castles, and villager communities  |  Socio-spatial | Active | Micro-geographic |
 | Population clusters  | Villages, towns. They are defined as the aggregation of neighbouring peasant households and attractive points |  Spatial | Passive | Meso-geographic |
-| Attraction centres  | TThey are defined as the aggregation of neighbouring attractive points |  Spatial | Passive | Meso-geographic |
+| Attraction centres  | They are defined as the aggregation of neighbouring attractive points |  Spatial | Passive | Meso-geographic |
 
 ### Relocation process of a peasant household within SimFeodal
 
