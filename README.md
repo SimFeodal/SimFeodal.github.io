@@ -28,11 +28,11 @@ Several processes jointly explain this major transition.
 | Name  | Description | Type  | Activity | Level |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Peasant households | Most of them can move locally and at long distances but others are so highly dependent on their lord that they can not leave his grounds| Socio-spatial | Active | Micro-geographic |
-| Lords  | Liege lords and small lords (enfeoffed vassal, knight...) do not have the same behaviour rules | Social | Active | Micro-geographic |
-| Taxing areas  | Each taxing area refers to one of the following types of rights: rents, high justice rights, medium and low justice rights, usage rights | Spatial | Passive | Micro-geographic |
-| Attractive points  | Three types of attractive points are distinguised: parish churches, castles, and villager communities  |  Socio-spatial | Active | Micro-geographic |
-| Population clusters  | Villages, towns. They are defined as the aggregation of neighbouring peasant households and attractive points |  Spatial | Passive | Meso-geographic |
-| Attraction centres  | They are defined as the aggregation of neighbouring attractive points |  Spatial | Passive | Meso-geographic |
+| Lords  | Liege lords and small lords (enfeoffed vassals, knights...) do not have the same behaviour rules | Social | Active | Micro-geographic |
+| Taxing areas  | Each taxing area refers to one type of rights: rents, high justice rights, medium and low justice rights, usage rights | Spatial | Passive | Micro-geographic |
+| Attractive points  | Parish churches, castles, villager communities  |  Socio-spatial | Active | Micro-geographic |
+| Population clusters  | Aggregation of neighbouring peasant households and attractive points |  Spatial | Passive | Meso-geographic |
+| Attraction centres  | Aggregation of neighbouring attractive points |  Spatial | Passive | Meso-geographic |
 
 ### Relocation process of a peasant household within SimFeodal
 
