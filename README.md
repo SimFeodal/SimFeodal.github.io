@@ -26,7 +26,7 @@ Several processes jointly explain this major transition.
 ### Modelled entities
 
 | Name  | Description | Type  | Level |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |
 | Peasant households | Most of them can move locally and at long distances but others are so highly dependent on their lord that they can not leave his grounds| Socio-spatial | Micro-geographic |
 | Lords  | Liege lords and small lords (enfeoffed vassals, knights...) do not have the same behaviour rules | Social | Micro-geographic |
 | Taxing areas  | Each taxing area refers to one type of rights: rents, high justice rights, medium and low justice rights, usage rights | Spatial | Micro-geographic |
