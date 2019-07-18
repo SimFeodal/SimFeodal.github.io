@@ -10,7 +10,7 @@ Around 800 CE, the Carolingian Empire achieved its greatest territorial extent:
 
 Around 1100 CE, the piecemeal dismantling of the Carolingian Empire is accomplished. Regional settlement patterns are composed of enduring population clusters located around the castles and the churches. Population clusters (hamlets, villages, towns) are much more numerous than in 800 CE. Towns that were existing in 800 CE are much larger since they have created productive and commercial activities; new nuclei have been created around suburban monasteries. Many small towns have emerged; they are most often associated to priories having their own outer wall.
 
-Thus regional settlements patterns that were dispersed in 800 CE became much more concentrated and hierarchical in 1100 CE. This phenomenon occurred in all regions in North-Western Europe but the intensity of the concentration and the hierarchisation of the settlement pattern differed notably among the regions.
+Thus regional settlements patterns that were dispersed in 800 CE became much more concentrated and hierarchical in 1200 CE. This phenomenon occurred in all regions in North-Western Europe but the intensity of the concentration and the hierarchisation of the settlement pattern differed notably among the regions.
 
 Several processes jointly explain this major transition.
 
