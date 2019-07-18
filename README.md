@@ -1,5 +1,5 @@
 # SimFeodal
-## Agent-based modelling to explore the combined effects of social and demographic changes on rural settlement patterns in North-Western Europe during the Middle Ages (800 CE to 1100 CE)
+## Agent-based modelling to explore the combined effects of social and demographic changes on rural settlement patterns in North-Western Europe during the Middle Ages (800 CE to 1200 CE)
 
 **The agent-based model SimFeodal simulates the emergence of enduring population clusters located around the castles and the churches in a rural region during the Middle Ages.**  In the course of time, population clusters (hamlets, villages, small towns) become more numerous; many of them grow (i. e. their number of peasant households increases) but some clusters grow more than others.
 
@@ -28,8 +28,8 @@ Several processes jointly explain this major transition.
 | Name  | Description | Level |
 | ------------- | ------------- | ------------- |
 | Peasant households | Most of them can move locally and at long distances but others are so highly dependent on their lord that they can not leave his grounds| Micro-geographic |
-| Lords  | Liege lords and small lords (enfeoffed vassals, knights...) do not have the same behaviour rules | Micro-geographic |
-| Taxing areas  | Each taxing area refers to one type of rights: rents, high justice rights, medium and low justice rights, usage rights | Micro-geographic |
+| Lords  | Overlords and small lords (enfeoffed vassals, knights...) do not have the same behaviour rules | Micro-geographic |
+| Taxing areas  | Each taxing area refers to one type of rights: rents, high justice rights, other rights (low justice rights, usage rights) | Micro-geographic |
 | Attractive points  | Parish churches, castles, villager communities  |  Micro-geographic |
 | Population clusters  | Aggregation of neighbouring peasant households and attractive points |  Meso-geographic |
 | Attraction centres  | Aggregation of neighbouring attractive points |  Meso-geographic |
