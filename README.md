@@ -28,7 +28,7 @@ Several processes jointly explain this major transition.
 | Name  | Description | Level |
 | ------------- | ------------- | ------------- |
 | Peasant households | Most of them can move locally and at long distances but others are so highly dependent on their lord that they can not leave his grounds| Micro-geographic |
-| Lords  | Overlords and smaller lords ( (mesne lords, landless knights...) do not have the same behaviour rules | Micro-geographic |
+| Lords  | Overlords and smaller lords (mesne lords, landless knights...) do not have the same behaviour rules | Micro-geographic |
 | Taxing areas  | Each taxing area refers to one type of rights: rents, high justice rights, other rights (low justice rights, usage rights) | Micro-geographic |
 | Attractive points  | Parish churches, castles, villager communities  |  Micro-geographic |
 | Population clusters  | Aggregation of neighbouring peasant households and attractive points |  Meso-geographic |
